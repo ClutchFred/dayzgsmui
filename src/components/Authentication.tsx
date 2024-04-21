@@ -15,7 +15,7 @@ function Authentication() {
         <div className={classes.wrapper} >
             <Paper className={classes.form} radius={0} p={30}>
                 <Title order={2} className={classes.title} ta="center" mt="md" mb={50}>
-                    DayZ GSM
+                    UniGSM
                 </Title>
 
                 <TextInput label="Username" placeholder="h4ckz0r" size="md"/>
